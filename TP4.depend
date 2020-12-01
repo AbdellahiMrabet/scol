@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1598179729 source:c:\dev\sources\c++\tp4\main.cpp
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<vector>
+	<algorithm>
+

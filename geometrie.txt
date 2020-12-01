@@ -1,0 +1,10 @@
+losange > parallelogramme.
+parallelogramme diagonales_perpendiculaires > losange.
+parallelogramme > trapeze.
+rectangle deux_cotes_adjacents_egaux > carre.
+carre > rectangle.
+les_4_cotes_sont_egaux > losange.
+deux_cotes_adjacents_egaux diagonales_perpendiculaires > cerf_volant.
+angle_droit les_4_cotes_sont_egaux trapeze > rectangle.
+deux_cotes_adjacents_egaux parallelogramme diagonales_perpendiculaires > losange.
+les_4_cotes_sont_egaux > deux_cotes_adjacents_egaux.

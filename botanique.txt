@@ -1,0 +1,14 @@
+fleur graine > phanerogame.
+phanerogame graine nue > sapin.
+phanerogame un_cotyledone > monocotyledone.
+phanerogame deux_cotyledone > dicotyledone.
+monocotyledone rhizome > muguet.
+dicotyledone > anemone.
+monocotyledone non_rhizome > lilas.
+feuille fleur > cryptogame.
+cryptogame non_racine > mousse.
+cryptogame racine > fougere.
+non_feuille plante > thallophyte.
+thallophyte chlorophylle > algue.
+thallophyte non_chlorophylle > champignon.
+non_feuille non_fleur non_plante > colibacille.
